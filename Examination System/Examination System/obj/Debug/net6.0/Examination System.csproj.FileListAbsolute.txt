@@ -1,0 +1,29 @@
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\Examination System\Examination System\obj\Debug\net6.0\Examination System.csproj.AssemblyReference.cache
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\Examination System\Examination System\obj\Debug\net6.0\Examination System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\Examination System\Examination System\obj\Debug\net6.0\Examination System.AssemblyInfoInputs.cache
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\Examination System\Examination System\obj\Debug\net6.0\Examination System.AssemblyInfo.cs
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\Examination System\Examination System\obj\Debug\net6.0\Examination System.csproj.CoreCompileInputs.cache
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\Examination System\Examination System\bin\Debug\net6.0\Examination System.exe
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\Examination System\Examination System\bin\Debug\net6.0\Examination System.deps.json
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\Examination System\Examination System\bin\Debug\net6.0\Examination System.runtimeconfig.json
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\Examination System\Examination System\bin\Debug\net6.0\Examination System.dll
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\Examination System\Examination System\bin\Debug\net6.0\Examination System.pdb
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\Examination System\Examination System\obj\Debug\net6.0\Examination System.dll
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\Examination System\Examination System\obj\Debug\net6.0\refint\Examination System.dll
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\Examination System\Examination System\obj\Debug\net6.0\Examination System.pdb
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\Examination System\Examination System\obj\Debug\net6.0\Examination System.genruntimeconfig.cache
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\Examination System\Examination System\obj\Debug\net6.0\ref\Examination System.dll
+F:\BackEnd\Route\C#\C# Exam01 Basic&OOP\Examination System\Examination System\bin\Debug\net6.0\Examination System.exe
+F:\BackEnd\Route\C#\C# Exam01 Basic&OOP\Examination System\Examination System\bin\Debug\net6.0\Examination System.deps.json
+F:\BackEnd\Route\C#\C# Exam01 Basic&OOP\Examination System\Examination System\bin\Debug\net6.0\Examination System.runtimeconfig.json
+F:\BackEnd\Route\C#\C# Exam01 Basic&OOP\Examination System\Examination System\bin\Debug\net6.0\Examination System.dll
+F:\BackEnd\Route\C#\C# Exam01 Basic&OOP\Examination System\Examination System\bin\Debug\net6.0\Examination System.pdb
+F:\BackEnd\Route\C#\C# Exam01 Basic&OOP\Examination System\Examination System\obj\Debug\net6.0\Examination System.GeneratedMSBuildEditorConfig.editorconfig
+F:\BackEnd\Route\C#\C# Exam01 Basic&OOP\Examination System\Examination System\obj\Debug\net6.0\Examination System.AssemblyInfoInputs.cache
+F:\BackEnd\Route\C#\C# Exam01 Basic&OOP\Examination System\Examination System\obj\Debug\net6.0\Examination System.AssemblyInfo.cs
+F:\BackEnd\Route\C#\C# Exam01 Basic&OOP\Examination System\Examination System\obj\Debug\net6.0\Examination System.csproj.CoreCompileInputs.cache
+F:\BackEnd\Route\C#\C# Exam01 Basic&OOP\Examination System\Examination System\obj\Debug\net6.0\Examination System.dll
+F:\BackEnd\Route\C#\C# Exam01 Basic&OOP\Examination System\Examination System\obj\Debug\net6.0\refint\Examination System.dll
+F:\BackEnd\Route\C#\C# Exam01 Basic&OOP\Examination System\Examination System\obj\Debug\net6.0\Examination System.pdb
+F:\BackEnd\Route\C#\C# Exam01 Basic&OOP\Examination System\Examination System\obj\Debug\net6.0\Examination System.genruntimeconfig.cache
+F:\BackEnd\Route\C#\C# Exam01 Basic&OOP\Examination System\Examination System\obj\Debug\net6.0\ref\Examination System.dll
